@@ -1,6 +1,6 @@
 # Hi there! I'm Sanchit 👋
 
-I'm a final-year **B.Tech student** passionate about building impactful projects using cutting-edge technologies. I love experimenting, learning, and creating solutions that address real-world problems.
+I'm a final-year **B.Tech student at DTU** passionate about building impactful projects using cutting-edge technologies. I love experimenting, learning, and creating solutions that address real-world problems.
 
 ## 🔧 Skills & Technologies
 ### **Languages:**
