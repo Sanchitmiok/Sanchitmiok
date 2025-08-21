@@ -15,7 +15,7 @@ I'm a final-year **B.Tech student at DTU** passionate about building impactful p
 * Next.js
 ### **Databases & Tools:**
 * MongoDB
-* Firebase
+* MySQL
 * Git
 ---
 
